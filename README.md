@@ -18,7 +18,7 @@
 
 ## 🚆 What is Subway?
 
-Subway it's a Libray to make communications into your microservices (Recommend locally)
+Subway it's a Library to make communications into your microservices (Recommend locally)
 
 
 <br>
